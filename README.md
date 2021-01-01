@@ -13,7 +13,7 @@ In general, key-value stores have no query language. They provide a way to creat
 1. File size exceeds 1GB.
 2. Jason object value exceeds 16KB.
 3. The key already exists in the database.
-4. Time-to-live of the key is expired which retieving a pair.
+4. Time-to-live of the key is expired while retieving a pair.
 5. Key does not match with one stored in database.
 
 **This key-value data store is compatible to all operating systems.**
