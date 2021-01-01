@@ -16,4 +16,4 @@ In general, key-value stores have no query language. They provide a way to creat
 4. Time-to-live of the key is expired which retieving a pair.
 5. Key does not mactch with ones in database.
 
-**This key-value data store is compatible to all operating systems.
+**This key-value data store is compatible to all operating systems.**
